@@ -2,6 +2,9 @@
 
 This repository contains solutions to Hackerrank Problem Solving Challenges
 
+96
+Breaking the Records
+
 106
 Birthday Candles
 
