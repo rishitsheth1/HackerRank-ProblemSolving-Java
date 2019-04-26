@@ -2,10 +2,10 @@
 
 This repository contains solutions to Hackerrank Problem Solving Challenges
 
-Points:106
-birthday candles
+106
+Birthday Candles
 
-Points:116
+116
 Divisible Sum Pairs
 
 126
